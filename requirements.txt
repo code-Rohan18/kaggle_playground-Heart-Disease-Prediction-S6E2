@@ -1,8 +1,8 @@
-"streamlit" 
-"joblib" 
-"xgboost" 
-"numpy" 
-"scikit-learn" 
-"pandas"
-"matplotlib"
-"shap"
+streamlit
+joblib 
+xgboost 
+numpy 
+scikit-learn 
+pandas
+matplotlib
+shap
